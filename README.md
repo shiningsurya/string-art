@@ -7,6 +7,13 @@ The video that originally inspired this is not on the web anymore, but this more
 
 [![Making Hyperrealistic Portraits With A Single Thread](http://img.youtube.com/vi/XJRVqzoQUG0/0.jpg)](http://www.youtube.com/watch?v=XJRVqzoQUG0 "String art")
 
+forked from [danielvarga](https://github.com/danielvarga/string-art)
+
+wrote MPI code to embarrasingly parallelize the computation.
+
+i love Guinness, so made this string art animation.
+
+![](guinness_string.gif)
 
 ## Usage:
 
